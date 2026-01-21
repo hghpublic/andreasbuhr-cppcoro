@@ -3,3 +3,6 @@ build
 *.pyc
 .idea
 *~
+
+# macos
+.DS_Store
