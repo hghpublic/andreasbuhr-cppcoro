@@ -1,9 +1,11 @@
-cmake_minimum_required(VERSION 3.12)
+cmake_minimum_required(VERSION 4.1)
 project(cppcoro LANGUAGES CXX)
 
+option(BUILD_TESTING "Build the test suite" ON)
+
 if(NOT "${CMAKE_CXX_STANDARD}")
-  message("C++ version not set. Defaulting to CMAKE_CXX_STANDARD=20")
-  set(CMAKE_CXX_STANDARD 20)
+  message("C++ version not set. Defaulting to CMAKE_CXX_STANDARD=26")
+  set(CMAKE_CXX_STANDARD 26)
 endif()
 
 set(CMAKE_CXX_EXTENSIONS OFF)

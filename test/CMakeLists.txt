@@ -10,6 +10,9 @@ add_library(tests-main STATIC
 	counted.cpp
 )
 target_link_libraries(tests-main PUBLIC cppcoro doctest::doctest Threads::Threads)
+set_target_properties(tests-main PROPERTIES
+	FOLDER "tests"
+)
 
 set(tests
 	generator_tests.cpp
@@ -67,4 +70,7 @@ foreach(test ${tests})
 		set(${test_name}_TIMEOUT 30)
 	endif()
 	doctest_discover_tests(${test_name} TEST_PREFIX ${test_prefix}- PROPERTIES TIMEOUT ${${test_name}_TIMEOUT})
+	set_target_properties(${test_name} PROPERTIES
+		FOLDER "tests"
+	)
 endforeach()
