@@ -1,0 +1,41 @@
+= cppcoro
+:toc:
+:sectnums:
+ifndef::env-github[:icons: font]
+:note-caption: :paperclip:
+:important-caption: :exclamation:
+:warning-caption: :warning:
+
+[IMPORTANT]
+====
+The commit history of this branch is volatile. +
+Rebasing and force pushing happens at will. +
+The commits in this branch mostly collect changes with a narrow scope. +
+They rarely document code evolution. +
+The history may be rewritten without notice.
+====
+
+== cppcoro
+
+https://github.com/lewissbaker/cppcoro
+
+https://github.com/andreasbuhr/cppcoro
+
+https://github.com/hghpublic/andreasbuhr-cppcoro
+
+== cppreference
+
+=== Coroutines
+
+https://en.cppreference.com/w/cpp/language/coroutines.html
+
+=== Execution control library (since C++26)
+
+https://en.cppreference.com/w/cpp/experimental/execution.html
+
+
+== Programming Language C++
+
+Add a Coroutine Task Type::
+
+https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2025/p3552r3.html
