@@ -1,0 +1,138 @@
+= YouTube
+:toc:
+:sectnums:
+ifndef::env-github[:icons: font]
+:note-caption: :paperclip:
+:important-caption: :exclamation:
+:warning-caption: :warning:
+
+[IMPORTANT]
+====
+The commit history of this branch is volatile. +
+Rebasing and force pushing happens at will. +
+The commits in this branch mostly collect changes with a narrow scope. +
+They rarely document code evolution. +
+The history may be rewritten without notice.
+====
+
+== YouTube
+
+=== CppCon
+
+==== C++20’s Coroutines for Beginners - Andreas Fertig - CppCon 2022
+
+https://www.youtube.com/watch?v=8sEe-4tig_A
+
+==== C++ Coroutines, from Scratch - Phil Nash - CppCon 2022
+
+https://www.youtube.com/watch?v=EGqz7vmoKco
+
+==== Deciphering C++ Coroutines - A Diagrammatic Coroutine Cheat Sheet - Andreas Weis - CppCon 2022
+
+https://www.youtube.com/watch?v=J7fYddslH0Q
+
+==== Structured Networking in C++ - Dietmar Kühl - CppCon 2022
+
+https://www.youtube.com/watch?v=XaNajUp-sGY
+
+=== CppNow
+
+==== C++ Coroutine Intuition - Roi Barkan - CppNow 2023
+
+https://www.youtube.com/watch?v=NNqVt73OsfI
+
+=== Meeting C{pp}
+
+==== C{pp}: using std::generator in practice - Nicolai Josuttis - Meeting C{pp} 2025
+
+https://www.youtube.com/watch?v=Qpj9fVOoVAk
+
+==== Asynchronous IO Using Boost.Asio - Michael Caisse - Meeting C++ 2016
+
+https://www.youtube.com/watch?v=UUiM-KNH69E
+
+
+==== Björn Fahller - Asynchronous I/O and coroutines for smooth data streaming - Meeting C++ online
+
+https://www.youtube.com/watch?v=9jKCdmAVtOY
+
+=== ACCU
+
+==== C++ Coroutines Demystified - Phil Nash - ACCU 2025
+
+https://www.youtube.com/watch?v=b6pYieNd_OY
+
+==== How to Use C++20 Coroutines for Networking - Jim Pascoe - ACCU 2022
+
+https://www.youtube.com/watch?v=ZNttI_WswMU
+
+=== code::dive
+
+==== Asynchrony with ASIO and coroutines - Andrzej Krzemieński - code::dive 2022
+
+https://www.youtube.com/watch?v=0i_pFZSijZc
+
+https://akrzemi1.wordpress.com/
+
+https://thecppway.com/
+
+=== Talking Async
+
+Talking Async Ep1: Why C++20 is the Awesomest Language for Network Programming::
+
+https://www.youtube.com/watch?v=icgnqFM-aY4
+
+Talking Async Ep2: Cancellation in depth::
+
+https://www.youtube.com/watch?v=hHk5OXlKVFg
+
+
+=== Networking in C++
+
+Networking in C++ Part #1: MMO Client/Server, ASIO & Framework Basics::
+
+https://www.youtube.com/watch?v=2hNdkYInj4g
+
+Networking in C++ Part #2: MMO Client/Server, ASIO, Sockets & Connections::
+
+https://www.youtube.com/watch?v=UbjxGvrDrbw
+
+Networking in C++ Part #3: MMO Client/Server Framework, Tweaks & Client Validation::
+
+https://www.youtube.com/watch?v=hHowZ3bWsio
+
+Networking in C++ Part #4: MMO - Designing Passivity::
+
+https://www.youtube.com/watch?v=f_1lt9pfaEo
+
+
+=== Stash
+
+==== Manage Asynchronous Control Flow With C++ Coroutines - Andreas Weis
+
+https://www.youtube.com/watch?v=lKUVuaUbRDk
+
+==== Johan Berg: Building libraries on top of Boost.Asio
+
+https://www.youtube.com/watch?v=pPyABbBNuI4
+
+==== Cancellations in Asio: a tale of coroutines and timeouts - Rubén Pérez Hidalgo
+
+https://www.youtube.com/watch?v=80Zs0WbXAMY
+
+==== Asio und C++20-Koroutinen, eine gelungene Kombination – Raul Gardens Jungheinrich
+
+https://www.youtube.com/watch?v=azbu9Tpv0AU
+
+
+==== Getting Started with Boost.Asio: Timers and Serial Ports
+
+https://www.youtube.com/watch?v=XB3uEit5R_Y
+
+==== C++ Network programming: Basic TCP echo server tutorial
+
+https://www.youtube.com/watch?v=CFe5LQOPdfk
+
+==== Networking in C++ with TCP Streams
+
+https://www.youtube.com/watch?v=CGQy3xDLX74
