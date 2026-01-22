@@ -41,6 +41,10 @@ https://www.youtube.com/watch?v=qfKFfQSxvA8
 
 https://www.youtube.com/watch?v=XaNajUp-sGY
 
+==== C++ Coroutines and Structured Concurrency in Practice - Dmitry Prokoptsev - C++Now 2024
+
+https://www.youtube.com/watch?v=sWeOIS14Myg
+
 === CppNow
 
 ==== C++ Coroutine Intuition - Roi Barkan - CppNow 2023
