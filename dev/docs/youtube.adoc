@@ -27,9 +27,15 @@ https://www.youtube.com/watch?v=8sEe-4tig_A
 
 https://www.youtube.com/watch?v=EGqz7vmoKco
 
-==== Deciphering C++ Coroutines - A Diagrammatic Coroutine Cheat Sheet - Andreas Weis - CppCon 2022
+==== Deciphering C++ Coroutines
+
+Deciphering C++ Coroutines - A Diagrammatic Coroutine Cheat Sheet - Andreas Weis - CppCon 2022::
 
 https://www.youtube.com/watch?v=J7fYddslH0Q
+
+Deciphering C++ Coroutines Part 2 - Mastering Asynchronous Control Flow - Andreas Weis - CppCon 2024::
+
+https://www.youtube.com/watch?v=qfKFfQSxvA8
 
 ==== Structured Networking in C++ - Dietmar Kühl - CppCon 2022
 
